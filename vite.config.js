@@ -15,7 +15,7 @@ const pages = {
 };
 
 export default defineConfig({
-  base: '/vic.dimitrova/',
+  base: '/',
   plugins: [react()],
   build: {
     rollupOptions: {
