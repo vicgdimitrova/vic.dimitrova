@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(gunzip -c \"/Users/georgitomov/.claude/projects/-Users-georgitomov-Desktop-Projects-Vic-Dimi-Website/38e95ca1-3167-48b9-a846-cb7494a1d78a/tool-results/webfetch-1777835720151-ll87fn.bin\")",
+      "Read(//private/tmp/**)",
+      "Bash(mkdir -p vico_design)",
+      "Bash(tar -x -C /tmp/vico_design)",
+      "Read(//tmp/**)",
+      "Bash(npm --version)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(node -e \"const gsap = require\\('/Users/georgitomov/Desktop/Projects/Vic_Dimi_Website/node_modules/gsap'\\); console.log\\(Object.keys\\(gsap\\)\\)\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
