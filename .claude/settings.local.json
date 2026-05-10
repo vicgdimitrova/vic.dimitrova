@@ -13,7 +13,14 @@
       "Bash(curl -s http://localhost:5173/)",
       "Bash(node -e \"const gsap = require\\('/Users/georgitomov/Desktop/Projects/Vic_Dimi_Website/node_modules/gsap'\\); console.log\\(Object.keys\\(gsap\\)\\)\")",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(gh run:*)",
+      "Bash(gh workflow:*)",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website commit --allow-empty -m \"Trigger GitHub Pages deployment\")",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website push)"
     ]
   }
 }
