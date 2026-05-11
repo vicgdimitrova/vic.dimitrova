@@ -224,7 +224,7 @@ function Work({ projects, theme }) {
   return (
     <section className="sec">
       <div id="work" className="sec-head reveal">
-        <div className="sec-num">(I) — Selected Work · 2025 / 2026</div>
+        <div className="sec-num">(I) - Selected Work · 2025 / 2026</div>
         <h2 className="sec-title">Projects that paid for the <span className="accent">coffee.</span></h2>
       </div>
 
@@ -302,7 +302,7 @@ function About({ blocks }) {
     <section className="about">
       <div id="about" className="about-inner">
         <div className="sec-head reveal" style={{ marginBottom: 40 }}>
-          <div className="sec-num">(II) — About · Click the pills to read</div>
+          <div className="sec-num">(II) - About · Click the pills to read</div>
           <h2 className="sec-title">Read me <span className="accent">slowly.</span></h2>
         </div>
 

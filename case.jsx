@@ -164,7 +164,7 @@ function CaseStudy() {
         <div className="case-embed-inner">
           <img className="case-embed-board"
                src={`../assets/projects/${p.id}.${p.imageExt || "png"}`}
-               alt={`${p.title} — full case study`} />
+               alt={`${p.title} - full case study`} />
           <div className="case-embed-caption">
             <span>{p.title} · Case Study Board</span>
             <span>Scroll ↓</span>

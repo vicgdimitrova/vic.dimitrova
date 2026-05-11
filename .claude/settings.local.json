@@ -20,7 +20,13 @@
       "Bash(gh run:*)",
       "Bash(gh workflow:*)",
       "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website commit --allow-empty -m \"Trigger GitHub Pages deployment\")",
-      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website push)"
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website push)",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website add vite.config.js)",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website commit -m \"Fix base path for custom domain\")",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website add index.html)",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website commit -m \"Replace em dash with middle dot in page title\")",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website add -A)",
+      "Bash(git -C /Users/georgitomov/Desktop/Projects/Vic_Dimi_Website commit -m \"Replace em dashes with regular dashes throughout all user-visible text\")"
     ]
   }
 }

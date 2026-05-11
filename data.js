@@ -59,7 +59,7 @@ export const VICO_DATA = {
       tone: "ink",
       imageExt: "jpg",
       thumb: true,
-      blurb: "From stickers to spreads — DSK Bank's \"HERE & NOW\" campaign",
+      blurb: "From stickers to spreads - DSK Bank's \"HERE & NOW\" campaign",
       services: ["Graphic Design", "Print & Digital Materials"],
       role: "Graphic Designer",
       intro: "A wide-ranging graphic design project for DSK Bank, spanning both print and digital marketing materials under the \"HERE & NOW\" campaign. Work included campaign visuals, event props, stickers, editorial layouts, and the design of the bank's seasonal payroll offer - all developed within the established brand visual identity to ensure consistency across channels.",
@@ -77,13 +77,13 @@ export const VICO_DATA = {
       blurb: "Logo, cards, and campaign visuals for a branded board game",
       services: ["Logo Design", "Card Design", "Social Media Visuals"],
       role: "Graphic Designer",
-      intro: "I developed visual elements for \"Magic School\" — a branded board game designed to engage younger audiences. My work included the game's logotype, contributions to the card design, and social media communication assets, all executed within the established visual direction of the campaign.",
+      intro: "I developed visual elements for \"Magic School\" - a branded board game designed to engage younger audiences. My work included the game's logotype, contributions to the card design, and social media communication assets, all executed within the established visual direction of the campaign.",
     },
     // ── Row 3 ─────────────────────────────────────────
     {
       id: "Oasis_Presentation",
       title: "Oasis - Poster Design",
-      client: "Studio Karakashyan — Creative Production Company",
+      client: "Studio Karakashyan - Creative Production Company",
       year: "2026",
       tag: "Poster Series",
       span: 3, col: 2, mt: 2,
@@ -94,7 +94,7 @@ export const VICO_DATA = {
       blurb: "A dance performance, rendered in print and pixels.",
       services: ["Poster Design", "Logo Design", "Photo Retouching"],
       role: "Graphic Designer",
-      intro: "Oasis is a contemporary dance performance exploring the pulse of friendship and the longing for human connection in a digitized world. A poster series drawn from the stage itself — each image pulled from live performance, retouched, and stilled into a moment that holds. Built around a modified geometric logotype and a considered color palette, the visual identity carries the tension of the performance from print to social.",
+      intro: "Oasis is a contemporary dance performance exploring the pulse of friendship and the longing for human connection in a digitized world. A poster series drawn from the stage itself - each image pulled from live performance, retouched, and stilled into a moment that holds. Built around a modified geometric logotype and a considered color palette, the visual identity carries the tension of the performance from print to social.",
     },
     {
       id: "behance_3project_KrajmoriePristanishte",
@@ -106,7 +106,7 @@ export const VICO_DATA = {
       ratio: "5/4",
       tone: "ink",
       thumb: true,
-      blurb: "A modern identity for a Black Sea port — where transportation meets the coast.",
+      blurb: "A modern identity for a Black Sea port - where transportation meets the coast.",
       services: ["Logo Design", "Visual Identity"],
       role: "Graphic Designer",
       intro: "A complete visual identity for Kraymorie Port, located on the Bulgarian Black Sea coast. The goal was to create a modern, professional look that reflects the port's role as an important transportation and tourist hub.",
@@ -122,7 +122,7 @@ export const VICO_DATA = {
       ratio: "2/3",
       tone: "ink",
       thumb: true,
-      blurb: "One image, one gesture — a poster that speaks before the film begins.",
+      blurb: "One image, one gesture - a poster that speaks before the film begins.",
       services: ["Poster Design", "Original Photography"],
       role: "Graphic Designer",
       intro: "An original poster for the film \"Afterimage,\" built around custom photography shot specifically for the project. The design uses a single symbolic image to capture the film's emotional core and the main character's internal struggle.",
@@ -141,7 +141,7 @@ export const VICO_DATA = {
       blurb: "A specialty coffee brand with a wandering nose and a sharp eye.",
       services: ["Brand Identity", "Packaging", "Print"],
       role: "Lead Designer",
-      intro: "Viverra is a specialty coffee roaster with a love for unusual origins and unforgiving flavor profiles. The brand needed a system as deliberate as a slow pour — confident in its mark, playful in its voice, ready to live across bags, cups, signage, and a café build-out in Sofia.",
+      intro: "Viverra is a specialty coffee roaster with a love for unusual origins and unforgiving flavor profiles. The brand needed a system as deliberate as a slow pour - confident in its mark, playful in its voice, ready to live across bags, cups, signage, and a café build-out in Sofia.",
     },
   ],
 
@@ -157,7 +157,7 @@ export const VICO_DATA = {
       id: "intro",
       start: true,
       nodes: [
-        "I'm Victoria — a designer in ",
+        "I'm Victoria - a designer in ",
         { pill: "SOFIA", label: "Sofia", unlocks: ["city"] },
         ". ",
       ],
@@ -188,7 +188,7 @@ export const VICO_DATA = {
     {
       id: "work",
       nodes: [
-        "I do brand identities, campaigns, posters, illustration — things that sell, things that make you stop for a ",
+        "I do brand identities, campaigns, posters, illustration - things that sell, things that make you stop for a ",
         { pill: "SECOND", label: "second", unlocks: ["artschool", "dancing"] },
         ". ",
       ],
