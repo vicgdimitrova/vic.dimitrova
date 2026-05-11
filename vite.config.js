@@ -11,6 +11,7 @@ const pages = {
   'behance_2project_Ostatu4niObrazi': path.resolve(__dirname, 'projects/behance_2project_Ostatu4niObrazi.html'),
   'behance_3project_KrajmoriePristanishte': path.resolve(__dirname, 'projects/behance_3project_KrajmoriePristanishte.html'),
   'Behance_DSK_Project': path.resolve(__dirname, 'projects/Behance_DSK_Project.html'),
+  'Oasis_Presentation': path.resolve(__dirname, 'projects/Oasis_Presentation.html'),
   'Smart_Collagene_FIRST_PRESENTATION': path.resolve(__dirname, 'projects/Smart_Collagene_FIRST_PRESENTATION.html'),
 };
 
